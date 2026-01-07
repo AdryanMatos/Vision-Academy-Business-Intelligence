@@ -1,1 +1,1 @@
-# Vision-Academy-Business-Intelligence
+# Vision Academy - Business Intelligence Power Platform
