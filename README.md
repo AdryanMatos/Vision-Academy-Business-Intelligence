@@ -18,4 +18,4 @@
 Gostou do material? Não esqueça de deixar uma **estrela** ⭐ no repositório!
 
 Se quiser incentivar a criação de mais conteúdos gratuitos, você pode contribuir por aqui:
-[💙 Apoiar o Projeto](https://nubank.com.br/cobrar/15oae1/695e713f-a500-4b7c-ae5e-f71d0e43a0ca)
+[💙 Clique para Apoiar o Projeto](https://nubank.com.br/cobrar/15oae1/695e713f-a500-4b7c-ae5e-f71d0e43a0ca)
