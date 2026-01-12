@@ -7,9 +7,8 @@
 
 | Recurso | Descrição |
 | :--- | :--- |
-| **[Nome do Projeto 1](./PowerBI_Files/Pasta_01)** | Aqui você descreve aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaao que o relatório faz. |
-| **[Nome do Projeto 2](./PowerBI_Files/Pasta_02)** | Explicação do segundo dashboard (ex: Vendas vs Metas). |
-| **[Fluxo de Caixa](./PowerBI_Files/Pasta_03)** | 💰 Dashboard financeiro com DRE e fluxo de caixa. |
+| **[Acesso Inteligente com RLS](https://github.com/AdryanMatos/Vision-Academy-Business-Intelligence/tree/main/Conte%C3%BAdo/RLS%20-%20Row%20Level%20Security%20Power%20BI)** | Neste projeto, aprendemos a implementar RLS para controlar quem vê o quê dentro dos dados. A proposta é simular cenários reais de empresas, aplicando regras de acesso por usuário, área ou hierarquia, reforçando boas práticas de segurança da informação. |
+
 
 
 
