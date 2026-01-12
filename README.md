@@ -7,7 +7,7 @@
 
 | Recurso | Descrição |
 | :--- | :--- |
-| **[Acesso Inteligente com RLS](./Conteúdo/RLS-Row-Level-Security-Power-BI)** | Neste projeto, aprendemos a implementar RLS para controlar quem vê o quê dentro dos dados. A proposta é simular cenários reais de empresas, aplicando regras de acesso por usuário, área ou hierarquia, reforçando boas práticas de segurança da informação. |
+| **[Acesso Inteligente com RLS](https://github.com/AdryanMatos/Vision-Academy-Business-Intelligence/tree/main/Conte%C3%BAdo/RLS%20-%20Row%20Level%20Security%20Power%20BI)** | Neste projeto, aprendemos a implementar RLS para controlar quem vê o quê dentro dos dados. A proposta é simular cenários reais de empresas, aplicando regras de acesso por usuário, área ou hierarquia, reforçando boas práticas de segurança da informação. |
 
 
 
