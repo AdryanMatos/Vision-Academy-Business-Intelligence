@@ -14,6 +14,7 @@ Ao final deste tutorial, você será capaz de:
 - 6️⃣ Testar e validar perfis de acesso no Power BI Desktop
 - 7️⃣ Publicar o relatório e configurar a segurança no Power BI Service
 
+![0112(1)](https://github.com/user-attachments/assets/fbbd029a-8667-48c0-92fc-34cc9e68c827)
 
 <h2>1️⃣ Por que RLS é necessário?</h2>
 
