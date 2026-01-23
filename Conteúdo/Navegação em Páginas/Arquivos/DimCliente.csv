@@ -1,0 +1,51 @@
+ID_Cliente,Nome_Cliente,Endereco,Email
+1,João Silva,"Rua XV de Novembro, 825, São Paulo - RJ",carlos.almeida@email.com
+2,Ana Ferreira,"Rua da Paz, 224, Curitiba - RJ",lucas.ferreira@email.com
+3,Pedro Ferreira,"Avenida Paulista, 900, Belo Horizonte - RS",josé.pereira@mail.com
+4,Pedro Gomes,"Rua das Flores, 734, Curitiba - RJ",pedro.lima@empresa.com.br
+5,Lucas Souza,"Rua das Flores, 979, Curitiba - SP",pedro.souza@mail.com
+6,José Pereira,"Avenida Brasil, 759, Rio de Janeiro - RS",fernanda.oliveira@mail.com
+7,Lucas Ferreira,"Rua da Paz, 461, Porto Alegre - SP",josé.silva@empresa.com.br
+8,José Gomes,"Rua das Flores, 246, Belo Horizonte - MG",pedro.ferreira@empresa.com.br
+9,Paula Pereira,"Rua das Flores, 643, São Paulo - RS",maria.ferreira@email.com
+10,Lucas Santos,"Rua da Paz, 797, Belo Horizonte - MG",joão.souza@empresa.com.br
+11,Maria Silva,"Avenida Paulista, 812, Porto Alegre - PR",joão.silva@mail.com
+12,Paula Oliveira,"Avenida Brasil, 889, Porto Alegre - RS",pedro.souza@empresa.com.br
+13,Maria Oliveira,"Rua das Flores, 217, Porto Alegre - SP",carlos.almeida@empresa.com.br
+14,José Ferreira,"Rua das Flores, 992, Belo Horizonte - SP",fernanda.pereira@email.com
+15,Pedro Santos,"Avenida Brasil, 926, Curitiba - RJ",fernanda.silva@empresa.com.br
+16,Carlos Ferreira,"Rua da Paz, 541, Belo Horizonte - RS",carlos.souza@empresa.com.br
+17,Carlos Gomes,"Avenida Brasil, 383, Curitiba - RS",fernanda.gomes@mail.com
+18,Mariana Santos,"Avenida Brasil, 315, São Paulo - RJ",lucas.pereira@mail.com
+19,Ana Santos,"Rua XV de Novembro, 461, Rio de Janeiro - MG",ana.gomes@empresa.com.br
+20,Ana Pereira,"Rua da Paz, 544, Curitiba - RJ",carlos.almeida@mail.com
+21,Maria Souza,"Rua XV de Novembro, 612, Porto Alegre - SP",pedro.almeida@empresa.com.br
+22,Fernanda Ferreira,"Avenida Brasil, 729, Belo Horizonte - RJ",paula.almeida@mail.com
+23,Pedro Gomes,"Avenida Brasil, 115, São Paulo - SP",josé.almeida@empresa.com.br
+24,Paula Oliveira,"Rua da Paz, 578, Curitiba - SP",josé.souza@empresa.com.br
+25,Carlos Pereira,"Avenida Paulista, 885, São Paulo - SP",ana.almeida@mail.com
+26,Lucas Oliveira,"Rua XV de Novembro, 415, Belo Horizonte - MG",josé.souza@mail.com
+27,Carlos Silva,"Avenida Paulista, 215, Rio de Janeiro - MG",lucas.souza@email.com
+28,José Oliveira,"Rua das Flores, 780, Porto Alegre - MG",ana.ferreira@empresa.com.br
+29,Maria Costa,"Rua XV de Novembro, 228, Belo Horizonte - SP",josé.gomes@email.com
+30,Carlos Almeida,"Rua XV de Novembro, 333, São Paulo - MG",lucas.costa@email.com
+31,Ana Silva,"Rua da Paz, 582, Curitiba - RS",pedro.pereira@empresa.com.br
+32,Fernanda Oliveira,"Avenida Brasil, 820, São Paulo - SP",lucas.costa@empresa.com.br
+33,Fernanda Silva,"Avenida Brasil, 991, Porto Alegre - SP",ana.lima@email.com
+34,José Santos,"Rua das Flores, 933, Porto Alegre - RS",joão.costa@mail.com
+35,Maria Almeida,"Rua XV de Novembro, 823, Porto Alegre - RJ",fernanda.lima@empresa.com.br
+36,Mariana Ferreira,"Rua da Paz, 795, Belo Horizonte - PR",joão.costa@empresa.com.br
+37,Paula Santos,"Rua XV de Novembro, 581, Porto Alegre - RJ",josé.gomes@empresa.com.br
+38,Fernanda Pereira,"Rua da Paz, 422, Rio de Janeiro - MG",paula.almeida@mail.com
+39,Carlos Costa,"Rua das Flores, 988, Porto Alegre - MG",lucas.almeida@email.com
+40,Mariana Santos,"Avenida Paulista, 78, Belo Horizonte - RS",lucas.silva@mail.com
+41,José Almeida,"Avenida Paulista, 801, São Paulo - PR",joão.costa@email.com
+42,Ana Ferreira,"Rua XV de Novembro, 769, São Paulo - MG",mariana.costa@email.com
+43,Carlos Santos,"Rua da Paz, 856, Belo Horizonte - RJ",lucas.costa@empresa.com.br
+44,João Oliveira,"Rua XV de Novembro, 111, São Paulo - PR",josé.lima@email.com
+45,Fernanda Souza,"Avenida Brasil, 721, Belo Horizonte - SP",fernanda.gomes@empresa.com.br
+46,Fernanda Silva,"Rua da Paz, 574, Rio de Janeiro - MG",pedro.souza@mail.com
+47,Carlos Oliveira,"Avenida Brasil, 539, Belo Horizonte - MG",lucas.lima@empresa.com.br
+48,João Lima,"Rua da Paz, 250, São Paulo - RS",mariana.santos@mail.com
+49,Carlos Oliveira,"Rua das Flores, 687, São Paulo - MG",maria.costa@empresa.com.br
+50,Ana Oliveira,"Avenida Paulista, 979, Belo Horizonte - RS",maria.souza@email.com
