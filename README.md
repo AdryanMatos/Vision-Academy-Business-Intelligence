@@ -1,9 +1,10 @@
 
-![1725621786048](https://github.com/user-attachments/assets/4b11672e-33f5-4f98-8e22-f578862806c9)
+![1769190520226](https://github.com/user-attachments/assets/fc04a8df-c257-4f2a-8299-99d3524c5518)
 <div align="center">
   <h1>Microsoft Power Platform Developer</h1>
 </div>
 <h2>🗂️ Conteúdo</h2>
+
 
 | Recurso | Descrição |
 | :--- | :--- |
