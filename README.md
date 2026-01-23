@@ -9,9 +9,6 @@
 | Recurso | Descrição |
 | :--- | :--- |
 | **[Pop-up Power BI](Conteúdo/Pop-up%20Power%20BI/README.md)** | Neste conteúdo você vai aprender a criar um pop-up interativo no Power BI, um recurso muito usado para exibir informações complementares sem poluir o layout do relatório. A ideia é mostrar detalhes, explicações, filtros ou até indicadores extras somente quando o usuário interage com um botão ou elemento visual, mantendo a página principal mais limpa e focada na análise. |
-| **[Acesso Inteligente com RLS](Conteúdo/RLS%20-%20Row%20Level%20Security%20Power%20BI/README.md)** | Neste projeto, aprendemos a implementar RLS para controlar quem vê o quê dentro dos dados. A proposta é simular cenários reais de empresas, aplicando regras de acesso por usuário, área ou hierarquia, reforçando boas práticas de segurança da informação. |
-| **[Destacando o Melhor e o Pior Mês no Power BI](Conteúdo/Destacando%20o%20Melhor%20e%20o%20Pior%20M%C3%AAs%20no%20Power%20BI/README.md)** | Este projeto demonstra como criar um gráfico de linha no Power BI capaz de identificar e destacar automaticamente o melhor e o pior mês de vendas dentro do contexto selecionado, como ano ou período filtrado. |
-
 
 
 <h2>⭐ Suporte</h2>
