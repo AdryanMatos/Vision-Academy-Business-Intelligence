@@ -3,10 +3,9 @@
   <h1>Pop-up no Power BI</h1>
 </div>
 
-<iframe title="Pop-up" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWVhNGU1YjItZGRhZi00NDZkLThmNWQtNzM3YjZjZDBjYjc3IiwidCI6IjEzOTYzYzIxLTliOGUtNDNjNS1iZWU0LTNhMTM4N2RmNjljOSJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 ![2026-01-18 16-01-47 (2)](https://github.com/user-attachments/assets/3540eeb7-ed4c-47c9-bd96-0c7fd5f8c8bd)
-
+[Acessar Versão Web](https://app.powerbi.com/view?r=eyJrIjoiZWVhNGU1YjItZGRhZi00NDZkLThmNWQtNzM3YjZjZDBjYjc3IiwidCI6IjEzOTYzYzIxLTliOGUtNDNjNS1iZWU0LTNhMTM4N2RmNjljOSJ9)
 
 
 
