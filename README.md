@@ -9,7 +9,7 @@
 | Recurso | Descrição |
 | :--- | :--- |
 | **[Pop-up Power BI](Conteúdo/Pop-up%20Power%20BI/README.md)** | Neste conteúdo você vai aprender a criar um pop-up interativo no Power BI, um recurso muito usado para exibir informações complementares sem poluir o layout do relatório. A ideia é mostrar detalhes, explicações, filtros ou até indicadores extras somente quando o usuário interage com um botão ou elemento visual, mantendo a página principal mais limpa e focada na análise. |
-
+| **[Navegação em Páginas](Conteúdo/Navegação%20em%20Páginas/README.md)** | Neste tutorial, demonstro como implementar Navegadores de Páginas nativos no Power BI. Esta abordagem substitui o uso complexo de indicadores (bookmarks) por uma interface fluida e intuitiva, melhorando significativamente a experiência do usuário final e facilitando a manutenção do dashboard. |
 
 <h2>⭐ Suporte</h2>
 
