@@ -4,7 +4,7 @@
   <h1>Navegação em Páginas</h1>
 </div>
 
-
+> ### 🔗 [Acessar Versão Web do Relatório](https://app.powerbi.com/view?r=eyJrIjoiNWJjYmVkMjQtNmYzNy00MTBmLWIwYjItMTdhNmRjOThhNzQ3IiwidCI6IjEzOTYzYzIxLTliOGUtNDNjNS1iZWU0LTNhMTM4N2RmNjljOSJ9)
 
 
 https://github.com/user-attachments/assets/fe0be235-ee0e-4014-b2bc-4417e2302c98
